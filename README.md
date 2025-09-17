@@ -70,7 +70,7 @@ Complex workflow:
 ---
 
 ⚙️ Project Structure
-ai_agent/
+```ai_agent/
 │── main.py               # Entry point for the agent
 │── pkg/                  # Core functionality (calculator, render, etc.)
 │── get_files_info.py     # Lists files in a directory
@@ -78,7 +78,7 @@ ai_agent/
 │── run_python.py         # Executes Python files
 │── write_file_contents.py# Writes content to a file
 │── config.py             # Configurations (working dir, max chars, etc.)
-│── tests.py              # Unit tests
+│── tests.py              # Unit tests```
 
 ---
 
