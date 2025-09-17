@@ -78,8 +78,8 @@ Complex workflow:
 │── run_python.py         # Executes Python files
 │── write_file_contents.py# Writes content to a file
 │── config.py             # Configurations (working dir, max chars, etc.)
-│── tests.py              # Unit tests```
-
+│── tests.py              # Unit tests
+```
 ---
 
 🛠 Requirements
