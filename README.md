@@ -79,6 +79,7 @@ Complex workflow:
 │── write_file_contents.py# Writes content to a file
 │── config.py             # Configurations (working dir, max chars, etc.)
 │── tests.py              # Unit tests
+```
 
 ---
 
