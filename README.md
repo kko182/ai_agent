@@ -20,7 +20,7 @@ It can list files, read file contents, write to files, and even run Python scrip
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/ai-agent.git
+git clone https://github.com/kko182/ai-agent.git
 cd ai-agent
 pip install -r requirements.txt
 ```
@@ -84,6 +84,6 @@ Complex workflow:
 
 🛠 Requirements
 
-Python 3.8+
-Google GenAI SDK
+Python 3.8+, 
+Google GenAI SDK, 
 uv for running scripts
