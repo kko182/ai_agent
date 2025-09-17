@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 ---
 
-▶️ Usage
+## ▶️ Usage
 
 Run the agent by passing a natural language prompt:
 uv run main.py "your prompt here"
@@ -36,7 +36,7 @@ uv run main.py "Can you list all the files and directories in the current direct
 
 ---
 
-💡Example Prompts
+## 💡Example Prompts
 
 Here are some prompts you can try to showcase the agent’s functionality:
 
@@ -69,7 +69,7 @@ Complex workflow:
 
 ---
 
-⚙️ Project Structure
+## ⚙️ Project Structure
 ```ai_agent/
 │── main.py               # Entry point for the agent
 │── pkg/                  # Core functionality (calculator, render, etc.)
@@ -82,7 +82,7 @@ Complex workflow:
 ```
 ---
 
-🛠 Requirements
+## 🛠 Requirements
 
 Python 3.8+, 
 Google GenAI SDK, 
