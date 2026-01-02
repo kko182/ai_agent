@@ -21,7 +21,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/kko182/ai_agent.git
-cd ai-agent
+cd ai_agent
 pip install -r requirements.txt
 ```
 ---
