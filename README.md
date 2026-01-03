@@ -22,7 +22,19 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/kko182/ai_agent.git
 cd ai_agent
-pip install -r requirements.txt
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+python -m ensurepip --upgrade
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+cat > .env <<'EOF'
+GEMINI_API_KEY=YOUR_API_KEY_HERE
+EOF
+
+chmod 600 .env
 ```
 ---
 
